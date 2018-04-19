@@ -3,7 +3,7 @@ description: "Aspiring web developer, bartender and dog dad."
 about: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
 location: "Oakland, CA"
 email: mattfreitas415@gmail.com
-baseurl: "/mattfreitas.github.io"
+baseurl: "/"
 
 url: "http://www.mattfreitas.com" # replace by your site's url
 twitter_username: chupacabreh
