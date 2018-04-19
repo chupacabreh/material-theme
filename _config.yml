@@ -52,7 +52,6 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jemoji
-  -
 
 whitelist:
   - jekyll-paginate
