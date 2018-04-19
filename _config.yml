@@ -32,6 +32,7 @@ rss_badge: "Subscribe feed!"
 # build settings
 markdown: kramdown
 highlighter: rouge
+remote_theme: lukas-h/material-theme
 
 kramdown:
   input: GFM
@@ -51,6 +52,7 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jemoji
+  -
 
 whitelist:
   - jekyll-paginate
