@@ -32,7 +32,6 @@ rss_badge: "Subscribe feed!"
 # build settings
 markdown: kramdown
 highlighter: rouge
-remote_theme: lukas-h/material-theme
 
 kramdown:
   input: GFM
